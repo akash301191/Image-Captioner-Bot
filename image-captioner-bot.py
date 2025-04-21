@@ -18,6 +18,9 @@ def render_sidebar():
         st.session_state.openai_api_key = openai_api_key
         st.sidebar.success("✅ OpenAI API key updated!")
 
+    st.sidebar.markdown("---")
+
+
 def render_caption_preferences():
     st.markdown("---")
     col1, col2, col3 = st.columns(3)

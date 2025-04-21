@@ -1,6 +1,6 @@
 # Image Captioner Bot
 
-**Image Captioner Bot** is a creative Streamlit application that transforms your uploaded images into vivid, expressive captions. Powered by [Agno](https://github.com/agno-agi/agno) and OpenAI's GPT-4o, the bot blends visual interpretation with user-defined tone, style, and perspective—bringing your images to life through storytelling.
+Image Captioner Bot is a creative Streamlit application that transforms your uploaded images into vivid, expressive captions. Powered by [Agno](https://github.com/agno-agi/agno) and OpenAI's GPT-4o, the bot blends visual interpretation with user-defined tone, style, and perspective—bringing your images to life through storytelling.
 
 ## Folder Structure
 
@@ -70,8 +70,6 @@ Image-Captioner-Bot/
    - Upload an image and choose your caption style, tone, length, and perspective.
    - Click **🖋️ Generate Caption** to view the result.
    - Download the caption if desired.
-
----
 
 ## Code Overview
 
