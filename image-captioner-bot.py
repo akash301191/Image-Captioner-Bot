@@ -124,6 +124,8 @@ def generate_caption(preferences):
     )
 
     return response.content
+
+
 def main() -> None:
     # Page config
     st.set_page_config(page_title="Image Captioner Bot", page_icon="🖼️", layout="wide")
